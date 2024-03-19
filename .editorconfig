@@ -1,0 +1,24 @@
+# EditorConfig helps developers define and maintain consistent coding styles across different editors and IDEs
+# For more information about the EditorConfig project, visit http://editorconfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# All files
+[*]
+# Set default charset
+charset = utf-8
+# Use LF (Unix) line endings
+end_of_line = lf
+# Use spaces for indentation (you can change this to tab, if preferred)
+indent_style = space
+# Indentation size is set to 4 spaces (you can change this to your preference)
+indent_size = 4
+# Trim trailing whitespace
+trim_trailing_whitespace = true
+# Ensure a newline at the end of the file
+insert_final_newline = true
+# Set maximum line length
+max_line_length = 180
+
+# Add more specific configurations for certain file types or directories if needed
